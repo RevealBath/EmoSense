@@ -1,0 +1,5 @@
+Unity_Frame,Unity_Time_Stamp,Participant_ID,Condition_Order,Exercise_Intensity,Emotion_Scene_Count,Shown_Scene,Valence_Rating,Arousal_Rating,Fear_Rating,Stress_Rating,Sad_Rating,Bored_Rating,Calm_Rating,Content_Rating,Happy_Rating,Excited_Rating
+19473,24-07-2023 - 16:04:05.246942,4,One,Low,1,Joy,7,9,0,0,0,3,3,5,7,7
+28676,24-07-2023 - 16:07:33.721275,4,One,Low,2,Serenity,6,7,0,3,3,8,5,7,3,3
+36738,24-07-2023 - 16:10:36.075872,4,One,Low,3,Stress,8,10,4,7,0,0,0,1,8,9
+44600,24-07-2023 - 16:13:32.598965,4,One,Low,4,Sadness,0,5,0,9,6,9,2,1,0,0

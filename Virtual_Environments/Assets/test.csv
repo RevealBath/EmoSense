@@ -1,0 +1,1 @@
+id,timestamp,pos.x pos.y pos.z,dir.x dir.y dir.z,gazePos.x gazePos.y gazePos.z,gazeDir.x gazeDir.y gazeDir.z,looking at object,pupil dilation left,pupil dilation right,eye closed left, eye open right,gaze ray hit collider,distance looking from self

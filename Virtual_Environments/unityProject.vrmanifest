@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.bleunityfinal.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\WS1\\OneDrive - University of Bath\\Documents\\zab26\\Bike Vive Integration\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "BLE-Unity-Final [Testing]"
+        }
+      }
+    }
+  ]
+}

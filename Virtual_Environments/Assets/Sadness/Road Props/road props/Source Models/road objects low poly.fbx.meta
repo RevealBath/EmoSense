@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 03ba5d78f50a4244dbc65a86f2686426
+timeCreated: 1531585974
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barrier Heavy
+    100002: Barrier Metal
+    100004: Barrier Plastic
+    100006: Bollard
+    100008: Fence
+    100010: Lamp Orange
+    100012: Lamp Yellow
+    100014: Lid
+    100016: Road Cone
+    100018: //RootNode
+    100020: Rubber Block
+    100022: Rubber Stand
+    100024: Stone Block
+    100026: Tire
+    100028: Water Barrel
+    400000: Barrier Heavy
+    400002: Barrier Metal
+    400004: Barrier Plastic
+    400006: Bollard
+    400008: Fence
+    400010: Lamp Orange
+    400012: Lamp Yellow
+    400014: Lid
+    400016: Road Cone
+    400018: //RootNode
+    400020: Rubber Block
+    400022: Rubber Stand
+    400024: Stone Block
+    400026: Tire
+    400028: Water Barrel
+    2100000: road objects low poly 2
+    2100002: road objects low poly
+    2100004: road objects low poly 2 alpha
+    2300000: Barrier Heavy
+    2300002: Barrier Metal
+    2300004: Barrier Plastic
+    2300006: Bollard
+    2300008: Fence
+    2300010: Lamp Orange
+    2300012: Lamp Yellow
+    2300014: Lid
+    2300016: Road Cone
+    2300018: Rubber Block
+    2300020: Rubber Stand
+    2300022: Stone Block
+    2300024: Tire
+    2300026: Water Barrel
+    3300000: Barrier Heavy
+    3300002: Barrier Metal
+    3300004: Barrier Plastic
+    3300006: Bollard
+    3300008: Fence
+    3300010: Lamp Orange
+    3300012: Lamp Yellow
+    3300014: Lid
+    3300016: Road Cone
+    3300018: Rubber Block
+    3300020: Rubber Stand
+    3300022: Stone Block
+    3300024: Tire
+    3300026: Water Barrel
+    4300000: Lid
+    4300002: Water Barrel
+    4300004: Lamp Orange
+    4300006: Lamp Yellow
+    4300008: Fence
+    4300010: Stone Block
+    4300012: Rubber Stand
+    4300014: Rubber Block
+    4300016: Barrier Metal
+    4300018: Road Cone
+    4300020: Tire
+    4300022: Bollard
+    4300024: Barrier Plastic
+    4300026: Barrier Heavy
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

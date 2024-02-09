@@ -7,4 +7,4 @@ Parts of the **EmoSense SDK** are available on request, please contact:
 Dominic Potts, <dmp59@bath.ac.uk>
 Christof Lutteroth, <c.lutteroth@bath.ac.uk>
 
-For the complete EmoSense real-time dataset, please see here: <URL_TBC>
+For the complete EmoSense real-time dataset, please see here: <https://doi.org/10.15125/BATH-01372>
